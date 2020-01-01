@@ -23,6 +23,7 @@ _site/
 activemq-data
 bin
 build.log
+build
 dependency-reduced-pom.xml
 dump.rdb
 interpolated*.xml
